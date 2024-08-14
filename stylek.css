@@ -1,0 +1,16 @@
+#cv-form{
+    /* display: none; */
+}
+.myimag{
+    border-radius: 50%;
+    width: 200px;
+}
+#cv-template{
+    display: none;
+}
+.background{
+    background-color: rgb(13, 236, 236);
+}
+.background1{
+    background-color: aqua;
+}
